@@ -71,3 +71,25 @@ button a{
     text-decoration: none;
     color: black;
 }
+.home{
+    display: flex;
+}
+.about{
+    text-align: center;
+    
+
+}
+.learn{
+    text-align: center;
+    font-size: 60px;
+}
+.ut{
+    text-align: center;
+    font-size: 40px;
+}
+.p{
+    
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
